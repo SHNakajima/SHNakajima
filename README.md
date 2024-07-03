@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://twitter.com/KleshasJapan"><img src="https://user-images.githubusercontent.com/39142850/88427403-cd36eb00-ce2d-11ea-9cbc-eb981fd21b3a.png" width="50px;" /></a><a>　</a>
   <a href="https://qiita.com/SHNakajima"><img src="https://user-images.githubusercontent.com/39142850/88427408-cf994500-ce2d-11ea-9125-a41bc9f0bb2e.png" width="53px;" /></a><a>　</a>
-  <a href="https://lapras.com/public/SHNakajima"><img src="https://user-images.githubusercontent.com/39142850/88427410-d0ca7200-ce2d-11ea-8d84-155f5a8bb63a.png" width="50px;" /></a>
+  <a href="https://lapras.com/public/WVGZ80W"><img src="https://user-images.githubusercontent.com/39142850/88427410-d0ca7200-ce2d-11ea-8d84-155f5a8bb63a.png" width="50px;" /></a>
 </p>
 
 <p align="center">
