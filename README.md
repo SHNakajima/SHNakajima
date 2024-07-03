@@ -70,17 +70,6 @@ const SHNakajima = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 💼 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/SHNakajima/account-book">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SHNakajima&repo=account-book&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/SHNakajima/CW_QuickInput">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SHNakajima&repo=CW_QuickInput&theme=radical&hide_border=true" />
-  </a>
-</p>
-
 <h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
@@ -89,9 +78,6 @@ const SHNakajima = {
   </a>
   <a href="mailto:dev.SHNakajima@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-  </a>
-  <a href="https://qiita.com/SHNakajima">
-    <img src="https://img.icons8.com/windows/48/000000/qiita.png"/>
   </a>
 </p>
 
