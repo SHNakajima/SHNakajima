@@ -44,13 +44,13 @@ const SHNakajima = {
       css: ["bootstrap", "sass", "tailwind"]
     },
     backEnd: {
-      php: ["Laravel", "CodeIgniter"],
-      js: ["Node", "Express"],
-      python: ["Django", "Flask"]
+      php: ["Laravel"],
+      js: ["Node"],
+      python: ["Django"]
     },
-    databases: ["MySQL", "MongoDB", "PostgreSQL"],
-    devOps: ["Docker", "Nginx", "AWS", "Heroku"],
-    misc: ["Firebase", "Socket.IO", "Redux"]
+    databases: ["MySQL", "SQLite", "PostgreSQL"],
+    devOps: ["Docker", "Nginx", "AWS", "GCP"],
+    misc: ["Firebase", "Socket.IO", "Pusher"]
   },
   currentFocus: "Building Scalable Web Applications",
   funFact: "I can learn new technologies faster than I can decide what to have for lunch!"
