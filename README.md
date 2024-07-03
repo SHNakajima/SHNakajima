@@ -9,7 +9,6 @@ I'm a versatile software developer with a passion for creating robust web applic
 - 🔭 I'm currently working on web application projects from scratch
 - 🌱 I'm always learning and improving my skills in various programming languages
 - 💼 Open for exciting web development opportunities
-- 💬 Ask me about web application architecture, PHP, JavaScript, or any programming language!
 - ⚡ Fun fact: I can quickly pick up new programming languages and technologies
 
 ## 🛠 Technologies & Tools
@@ -32,13 +31,13 @@ I'm a versatile software developer with a passion for creating robust web applic
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SHNakajima&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
 
 ## 💻 Most Used Languages
 
-<div align="center">
+<div>
   <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHNakajima&theme=tokyonight&layout=compact" />
 </div>
 
@@ -49,19 +48,19 @@ I'm a versatile software developer with a passion for creating robust web applic
 ## 📌 Featured Projects
 
 <a href="https://github.com/SHNakajima/account-book">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHNakajima&repo=account-book&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHNakajima&repo=account-book&theme=tokyonight" />
 </a>
 <a href="https://github.com/SHNakajima/CW_QuickInput">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SHNakajima&repo=CW_QuickInput&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHNakajima&repo=CW_QuickInput&theme=tokyonight" />
 </a>
 
 ## 📫 How to reach me
 
-- 🐦 Follow me on [Twitter]([Your Twitter URL](https://twitter.com/KleshasJapan))
+- 🐦 Follow me on [Twitter](https://twitter.com/KleshasJapan)
 - 📧 Email me at [dev.SHNakajima@gmail.com](dev.SHNakajima@gmail.com)
 
 ---
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=SHNakajima&style=flat-square&color=blue" alt=""/>
 </div>
