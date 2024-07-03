@@ -70,7 +70,7 @@ const SHNakajima = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h2 align="center">📫 Connect with me</h2>
+<h2>📫 Connect with me</h2>
 
 <p align="center">
   <a href="https://twitter.com/KleshasJapan">
